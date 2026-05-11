@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+paho-mqtt
+python-dotenv
+python-multipart
+ollama
+azure-cognitiveservices-speech
